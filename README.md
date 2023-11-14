@@ -11,3 +11,4 @@ We planned our data governance policies and how we will monitor, manage, and ant
 Return and Value on Investment and provided our Net Present Value five-year plan for Local Bru to reach a bottom-line impact for our executives. 
 Our return realization was expected in just over 1.5 years. Together, we fully described our companies’ goals and what efforts are necessary to be 
 successful in today’s digital world.
+<img width="1042" alt="Screenshot 2023-11-14 at 11 47 21 AM" src="https://github.com/gtrane/DataLeadership/assets/116750192/eab3f72f-bb01-43dc-a2f7-41c82d2c1563">
